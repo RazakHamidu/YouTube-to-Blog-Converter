@@ -43,9 +43,9 @@ Per eseguire l'applicazione direttamente sulla tua macchina locale, segui questi
 1.  **Clona il repository:**
     ```bash
     git clone https://github.com/RazakHamidu/YouTube-to-Blog-Converter.git
-    cd <NOME_DELLA_CARTELLA_DEL_PROGETTO>/app
+    cd YouTube-to-Blog-Converter
     ```
-    *(Assicurati di navigare nella cartella `app` dove si trovano i file Python)*
+
 
 2.  **Crea e attiva un ambiente virtuale (consigliato):**
     *   Su macOS/Linux:
