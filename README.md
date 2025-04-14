@@ -42,7 +42,7 @@ Per eseguire l'applicazione direttamente sulla tua macchina locale, segui questi
 
 1.  **Clona il repository:**
     ```bash
-    git clone <URL_DEL_TUO_REPOSITORY>
+    git clone https://github.com/RazakHamidu/YouTube-to-Blog-Converter.git
     cd <NOME_DELLA_CARTELLA_DEL_PROGETTO>/app
     ```
     *(Assicurati di navigare nella cartella `app` dove si trovano i file Python)*
